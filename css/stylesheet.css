@@ -1,4 +1,9 @@
-img{
+.logo {
+	position:fixed;
+	left:50%;
+}
+
+.logo img{
 	height:300px;
 	width:auto;
 }
