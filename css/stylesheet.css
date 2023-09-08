@@ -23,3 +23,16 @@
 	width:1120px;
 	height:630px;
 }
+
+.socials {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+
+}
+
+.socials img{
+	height:200px;
+	width:auto;
+}
