@@ -18,3 +18,8 @@
 	text-align: center;
 
 }
+
+.video iframe{
+	width:"1120";
+	height:auto;
+}
